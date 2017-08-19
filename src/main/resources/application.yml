@@ -1,0 +1,13 @@
+server:
+  port: 8084
+spring:
+  application:
+    name: springConfig
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://github.com/851930791/springCloud.git
+          search-paths: src/main/resources
+          username: 851930791
+          password: q123456789
