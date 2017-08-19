@@ -12,3 +12,9 @@ spring:
           username: 851930791
           password: q123456789
           default-label: master
+security:
+  user:
+    name: user
+    password: 4561321543345
+encrypt:
+  key: 4561321543345
