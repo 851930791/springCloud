@@ -11,3 +11,4 @@ spring:
           search-paths: src/main/resources/appConfig
           username: 851930791
           password: q123456789
+          default-label: master
